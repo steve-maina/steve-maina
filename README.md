@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Steve Maina! 👋
 
-<!--
-**steve-maina/steve-maina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Frontend Developer with experience in React. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: backend development and advanced frontend development through ALX.
+- 🌍 Languages: Python, Javascript
+- 📫 How to reach me: stevemainam@gmail.com
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
+## Featured Projects 💻
+
+### [Study Tracker](https://github.com/steve-maina/study-tracker)
+
+Study tracker is a web app built with NextJs. This project showcases my skills in server side rendering of components, knowledge of charting and date /time handling. You can check out the repository [here](https://github.com/steve-maina/study-tracker).
+
+### [Shows](https://github.com/steve-maina/shows)
+
+Shows is a mobile app built with Kotlin. This project showcases my skills in consuming a RESTful API, managing local data storage through room and UI development using Jetpack Compose. You can check out the repository [here](https://github.com/steve-maina/shows).
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/steve-maina-4a973b33a)
+
+
+
