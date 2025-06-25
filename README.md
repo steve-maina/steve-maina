@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Steve Maina! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate Frontend Developer with experience in React. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -16,9 +14,7 @@ I'm a passionate Frontend Developer with experience in React. I love learning ne
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 
 ## Featured Projects 💻
 
