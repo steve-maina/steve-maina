@@ -1,5 +1,5 @@
 # Hi there 👋
-##I'm Steve Maina! 👋
+## I'm Steve Maina! 👋
 
 ## About Me 🚀
 
