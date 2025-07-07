@@ -22,13 +22,6 @@ I'm Steve Maina, a passionate Frontend Developer with experience in React. I lov
 
 Study tracker is a web app built with NextJs. This project showcases my skills in server side rendering of components, knowledge of charting and date /time handling. You can check out the repository [here](https://github.com/steve-maina/study-tracker).
 
-### [Shows](https://github.com/steve-maina/shows)
-
-Shows is a mobile app built with Kotlin. This project showcases my skills in consuming a RESTful API, managing local data storage through room and UI development using Jetpack Compose. You can check out the repository [here](https://github.com/steve-maina/shows).
-
-## Get in Touch 📬
-
-- **[LinkedIn]**(https://www.linkedin.com/in/steve-maina-4a973b33a)
 
 
 
