@@ -2,9 +2,8 @@
 
 ## About Me 🚀
 
-I'm Steve Maina, a passionate Frontend Developer with experience in React. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm Steve Maina, a passionate Frontend Developer with experience in React. I love learning new skills, and collaborating.
 
-- 🌱 Currently learning: backend development and advanced frontend development through ALX.
 - 🌍 Languages: Python, Javascript
 - 📫 How to reach me: stevemainam@gmail.com
 
